@@ -1,0 +1,251 @@
+{
+  "id": 30415,
+  "categoryId": "5713",
+  "categoryName": "Feln\u0151tt gabonapehely",
+  "brandName": "Cerbona",
+  "defaultVariant": {
+    "id": 30418,
+    "name": "Cerbona finomszem\u0171 zabpehely 500 g",
+    "sku": "786280",
+    "price": {
+      "net": 699,
+      "gross": 699,
+      "currency": "HUF",
+      "decimalPlaces": 0,
+      "netDiscounted": 699,
+      "grossDiscounted": 699,
+      "discountPercentage": 0,
+      "isDiscounted": false
+    },
+    "productId": 30415,
+    "addedName": "",
+    "selectValue": 30418,
+    "status": "none",
+    "unit": "db",
+    "eanCode": "5998400305885",
+    "aided": false,
+    "cartInfo": {
+      "quantitySteps": 24,
+      "quantityStepSize": 1,
+      "availability": "available"
+    },
+    "packageInfo": {
+      "packageUnit": "KG",
+      "packageSize": 0.5,
+      "unitPrice": {
+        "net": 1398,
+        "gross": 1398,
+        "currency": "HUF",
+        "decimalPlaces": 0,
+        "netDiscounted": 1398,
+        "grossDiscounted": 1398,
+        "discountPercentage": 0,
+        "isDiscounted": false
+      }
+    },
+    "loose": {
+      "loose": false,
+      "convertible": false,
+      "weightPerPiece": 0.515
+    },
+    "flags": [
+      {
+        "flag": "flag_regional_delivery",
+        "name": "R\u00e9gi\u00f3san, Budapesten \u00e9s k\u00f6rny\u00e9k\u00e9n saj\u00e1t Auchan aut\u00f3val vagy Auchan \u00e1tvev\u0151 pontra",
+        "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/10656255\/22AUC082_Ecom_kampany_delivery_icon_auchan_drive_170x170_2.png"
+      },
+      {
+        "flag": "flag_national_delivery",
+        "name": "Orsz\u00e1gosan fut\u00e1rszolg\u00e1lattal",
+        "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/10656381\/22AUC082_Ecom_kampany_delivery_icon_gls_170x170.png"
+      }
+    ],
+    "media": {
+      "images": [
+        "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7303182\/01_199988_front_145536.png"
+      ],
+      "videos": [],
+      "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7303182\/01_199988_front_145536.png",
+      "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7303182\/01_199988_front_145536.png"
+    },
+    "details": [
+      "description",
+      "parameterList",
+      "nutrition",
+      "ingredients",
+      "allergens"
+    ],
+    "isInVirtualStock": false,
+    "shoppingListsContain": [],
+    "offerType": ""
+  },
+  "selectedVariant": {
+    "id": 30418,
+    "name": "Cerbona finomszem\u0171 zabpehely 500 g",
+    "sku": "786280",
+    "price": {
+      "net": 699,
+      "gross": 699,
+      "currency": "HUF",
+      "decimalPlaces": 0,
+      "netDiscounted": 699,
+      "grossDiscounted": 699,
+      "discountPercentage": 0,
+      "isDiscounted": false
+    },
+    "productId": 30415,
+    "addedName": "",
+    "selectValue": 30418,
+    "status": "none",
+    "unit": "db",
+    "eanCode": "5998400305885",
+    "aided": false,
+    "cartInfo": {
+      "quantitySteps": 24,
+      "quantityStepSize": 1,
+      "availability": "available"
+    },
+    "packageInfo": {
+      "packageUnit": "KG",
+      "packageSize": 0.5,
+      "unitPrice": {
+        "net": 1398,
+        "gross": 1398,
+        "currency": "HUF",
+        "decimalPlaces": 0,
+        "netDiscounted": 1398,
+        "grossDiscounted": 1398,
+        "discountPercentage": 0,
+        "isDiscounted": false
+      }
+    },
+    "loose": {
+      "loose": false,
+      "convertible": false,
+      "weightPerPiece": 0.515
+    },
+    "flags": [
+      {
+        "flag": "flag_regional_delivery",
+        "name": "R\u00e9gi\u00f3san, Budapesten \u00e9s k\u00f6rny\u00e9k\u00e9n saj\u00e1t Auchan aut\u00f3val vagy Auchan \u00e1tvev\u0151 pontra",
+        "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/10656255\/22AUC082_Ecom_kampany_delivery_icon_auchan_drive_170x170_2.png"
+      },
+      {
+        "flag": "flag_national_delivery",
+        "name": "Orsz\u00e1gosan fut\u00e1rszolg\u00e1lattal",
+        "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/10656381\/22AUC082_Ecom_kampany_delivery_icon_gls_170x170.png"
+      }
+    ],
+    "media": {
+      "images": [
+        "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7303182\/01_199988_front_145536.png"
+      ],
+      "videos": [],
+      "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7303182\/01_199988_front_145536.png",
+      "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7303182\/01_199988_front_145536.png"
+    },
+    "details": [
+      "description",
+      "parameterList",
+      "nutrition",
+      "ingredients",
+      "allergens"
+    ],
+    "isInVirtualStock": false,
+    "shoppingListsContain": [],
+    "offerType": ""
+  },
+  "eancode": "5998400305885",
+  "usedItem": {
+    "canReturn": false,
+    "return": false
+  },
+  "reviewable": "login",
+  "reviewSum": {
+    "sumCount": 0,
+    "average": 0
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "\u00c9lelmiszer",
+      "imageUrl": "",
+      "thumbnailUrl": "",
+      "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11516299\/E%CC%81lelmiszer.png",
+      "productCount": 12618,
+      "comparable": false,
+      "discountedCount": 1032,
+      "childCount": 10,
+      "children": [],
+      "boutique": false,
+      "preferredDisplayStyle": "icon_style",
+      "promotionContentType": "banner",
+      "promotionContentId": 1316,
+      "slug": "elelmiszer"
+    },
+    {
+      "id": 5549,
+      "name": "Tart\u00f3s \u00e9lelmiszerek",
+      "imageUrl": "",
+      "thumbnailUrl": "",
+      "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11516434\/Tarto%CC%81s%20e%CC%81lelmiszerek.png",
+      "productCount": 3816,
+      "comparable": false,
+      "discountedCount": 224,
+      "childCount": 12,
+      "children": [],
+      "boutique": false,
+      "promotionContentType": "banner",
+      "promotionContentId": 1316,
+      "slug": "tartos-elelmiszerek"
+    },
+    {
+      "id": 5567,
+      "name": "M\u00fczli, gabonapehely",
+      "imageUrl": "",
+      "thumbnailUrl": "",
+      "mobileImageUrl": "",
+      "productCount": 225,
+      "comparable": false,
+      "discountedCount": 8,
+      "childCount": 4,
+      "children": [],
+      "boutique": false,
+      "promotionContentType": "banner",
+      "promotionContentId": 1316,
+      "slug": "muzli-gabonapehely"
+    },
+    {
+      "id": 5713,
+      "name": "Feln\u0151tt gabonapehely",
+      "imageUrl": "",
+      "thumbnailUrl": "",
+      "mobileImageUrl": "",
+      "productCount": 116,
+      "comparable": false,
+      "discountedCount": 8,
+      "childCount": 0,
+      "children": [],
+      "boutique": false,
+      "promotionContentType": "banner",
+      "promotionContentId": 1316,
+      "slug": "felnott-gabonapehely"
+    }
+  ],
+  "inCategories": [
+    5713,
+    12230
+  ],
+  "isNewProduct": false,
+  "stockInfos": [],
+  "adultsOnly": false,
+  "shipmentDays": 0,
+  "ageConfirmed": false,
+  "isNonFood": false,
+  "documents": [
+    {
+      "name": "aw.common.product.document.type_105977471",
+      "url": "https:\/\/apm.auchan.hu\/documents\/getfile\/                                                                                                                                                                                                                       12128889"
+    }
+  ]
+}

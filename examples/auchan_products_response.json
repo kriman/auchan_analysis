@@ -1,0 +1,3258 @@
+{
+  "itemCount": 44,
+  "pageCount": 4,
+  "currentPage": 1,
+  "results": [
+    {
+      "id": 495968,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "Selecline",
+      "defaultVariant": {
+        "id": 4033370,
+        "name": "Selecline 600082784 el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 6 kg",
+        "sku": "468745",
+        "price": {
+          "net": 119999,
+          "gross": 119999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 119999,
+          "grossDiscounted": 119999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 495968,
+        "addedName": "",
+        "selectValue": 4033370,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "3665257115548",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 119999,
+            "gross": 119999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 119999,
+            "grossDiscounted": 119999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 45
+        },
+        "flags": [
+          {
+            "flag": "flag_selecline",
+            "name": "Selecline",
+            "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/7624657\/flag_selectline.svg"
+          }
+        ],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13443264\/01_151356963_front_1617014069.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13443270\/90_151356963_front_1617014075.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13443264\/01_151356963_front_1617014069.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/13443264\/01_151356963_front_1617014069.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4033370,
+        "name": "Selecline 600082784 el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 6 kg",
+        "sku": "468745",
+        "price": {
+          "net": 119999,
+          "gross": 119999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 119999,
+          "grossDiscounted": 119999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 495968,
+        "addedName": "",
+        "selectValue": 4033370,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "3665257115548",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 119999,
+            "gross": 119999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 119999,
+            "grossDiscounted": 119999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 45
+        },
+        "flags": [
+          {
+            "flag": "flag_selecline",
+            "name": "Selecline",
+            "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/7624657\/flag_selectline.svg"
+          }
+        ],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13443264\/01_151356963_front_1617014069.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13443270\/90_151356963_front_1617014075.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13443264\/01_151356963_front_1617014069.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/13443264\/01_151356963_front_1617014069.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "3665257115548",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    },
+    {
+      "id": 482703,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "BEKO",
+      "defaultVariant": {
+        "id": 4020093,
+        "name": "Beko WUE-6511 XWW ET el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 6 kg",
+        "sku": "452542",
+        "price": {
+          "net": 120099,
+          "gross": 120099,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 120099,
+          "grossDiscounted": 120099,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 482703,
+        "addedName": "",
+        "selectValue": 4020093,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8690842229824",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 120099,
+            "gross": 120099,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 120099,
+            "grossDiscounted": 120099,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 0
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7331055\/01_151343008_front_62163126.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7331058\/90_151343008_front_1614856225.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7331055\/01_151343008_front_62163126.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7331055\/01_151343008_front_62163126.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4020093,
+        "name": "Beko WUE-6511 XWW ET el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 6 kg",
+        "sku": "452542",
+        "price": {
+          "net": 120099,
+          "gross": 120099,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 120099,
+          "grossDiscounted": 120099,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 482703,
+        "addedName": "",
+        "selectValue": 4020093,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8690842229824",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 120099,
+            "gross": 120099,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 120099,
+            "grossDiscounted": 120099,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 0
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7331055\/01_151343008_front_62163126.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7331058\/90_151343008_front_1614856225.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7331055\/01_151343008_front_62163126.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7331055\/01_151343008_front_62163126.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "8690842229824",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": [
+        {
+          "name": "aw.common.product.document.type_105977471",
+          "url": "https:\/\/apm.auchan.hu\/documents\/getfile\/                                                                                                                                                                                                                       12100951"
+        },
+        {
+          "name": "aw.common.product.document.type_105977471",
+          "url": "https:\/\/apm.auchan.hu\/documents\/getfile\/                                                                                                                                                                                                                       12074331"
+        }
+      ]
+    },
+    {
+      "id": 472528,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "Candy",
+      "defaultVariant": {
+        "id": 4009909,
+        "name": "Candy Aqua 1142DE\/2-S mini mos\u00f3g\u00e9p - 4 kg",
+        "sku": "434518",
+        "price": {
+          "net": 123999,
+          "gross": 123999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 123999,
+          "grossDiscounted": 123999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 472528,
+        "addedName": "",
+        "selectValue": 4009909,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8059019021447",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 1,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 123999,
+            "gross": 123999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 123999,
+            "grossDiscounted": 123999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 49
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7321708\/01_151327088_front_1607006138.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7321711\/02_151327088_front_30135624.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7321723\/90_151327088_bottom_1613118459.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7321708\/01_151327088_front_1607006138.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7321708\/01_151327088_front_1607006138.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4009909,
+        "name": "Candy Aqua 1142DE\/2-S mini mos\u00f3g\u00e9p - 4 kg",
+        "sku": "434518",
+        "price": {
+          "net": 123999,
+          "gross": 123999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 123999,
+          "grossDiscounted": 123999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 472528,
+        "addedName": "",
+        "selectValue": 4009909,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8059019021447",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 1,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 123999,
+            "gross": 123999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 123999,
+            "grossDiscounted": 123999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 49
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7321708\/01_151327088_front_1607006138.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7321711\/02_151327088_front_30135624.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7321723\/90_151327088_bottom_1613118459.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7321708\/01_151327088_front_1607006138.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7321708\/01_151327088_front_1607006138.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "8059019021447",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    },
+    {
+      "id": 558126,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "Indesit",
+      "defaultVariant": {
+        "id": 4095516,
+        "name": "Indesit BWSA 61051 W EU N keskeny el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+        "sku": "627662",
+        "price": {
+          "net": 124999,
+          "gross": 124999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 124999,
+          "grossDiscounted": 124999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 558126,
+        "addedName": "",
+        "selectValue": 4095516,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8050147656839",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 124999,
+            "gross": 124999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 124999,
+            "grossDiscounted": 124999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 61.3
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14915373\/01_157965328_front_8050147656839_2.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14915373\/01_157965328_front_8050147656839_2.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/14915373\/01_157965328_front_8050147656839_2.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4095516,
+        "name": "Indesit BWSA 61051 W EU N keskeny el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+        "sku": "627662",
+        "price": {
+          "net": 124999,
+          "gross": 124999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 124999,
+          "grossDiscounted": 124999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 558126,
+        "addedName": "",
+        "selectValue": 4095516,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8050147656839",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 124999,
+            "gross": 124999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 124999,
+            "grossDiscounted": 124999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 61.3
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14915373\/01_157965328_front_8050147656839_2.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14915373\/01_157965328_front_8050147656839_2.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/14915373\/01_157965328_front_8050147656839_2.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "8050147656839",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    },
+    {
+      "id": 557514,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "Indesit",
+      "defaultVariant": {
+        "id": 4094904,
+        "name": "Indesit BWSA 61251 W EU N keskeny el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+        "sku": "627663",
+        "price": {
+          "net": 124999,
+          "gross": 124999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 124999,
+          "grossDiscounted": 124999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 557514,
+        "addedName": "",
+        "selectValue": 4094904,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8050147656877",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 124999,
+            "gross": 124999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 124999,
+            "grossDiscounted": 124999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 62
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14064585\/01_157965329_front_54085802.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14064585\/01_157965329_front_54085802.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/14064585\/01_157965329_front_54085802.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4094904,
+        "name": "Indesit BWSA 61251 W EU N keskeny el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+        "sku": "627663",
+        "price": {
+          "net": 124999,
+          "gross": 124999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 124999,
+          "grossDiscounted": 124999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 557514,
+        "addedName": "",
+        "selectValue": 4094904,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8050147656877",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 124999,
+            "gross": 124999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 124999,
+            "grossDiscounted": 124999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 62
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14064585\/01_157965329_front_54085802.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14064585\/01_157965329_front_54085802.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/14064585\/01_157965329_front_54085802.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "8050147656877",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    },
+    {
+      "id": 466267,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "BEKO",
+      "defaultVariant": {
+        "id": 4003645,
+        "name": "Beko WUE-6512 XWST el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 6 kg",
+        "sku": "433174",
+        "price": {
+          "net": 129399,
+          "gross": 129399,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 129399,
+          "grossDiscounted": 129399,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 466267,
+        "addedName": "",
+        "selectValue": 4003645,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8690842341076",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 129399,
+            "gross": 129399,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 129399,
+            "grossDiscounted": 129399,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 56
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13327128\/01_151325950_front_1610440487.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13327134\/90_151325950_front_1614864375.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13327128\/01_151325950_front_1610440487.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/13327128\/01_151325950_front_1610440487.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4003645,
+        "name": "Beko WUE-6512 XWST el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 6 kg",
+        "sku": "433174",
+        "price": {
+          "net": 129399,
+          "gross": 129399,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 129399,
+          "grossDiscounted": 129399,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 466267,
+        "addedName": "",
+        "selectValue": 4003645,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8690842341076",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 129399,
+            "gross": 129399,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 129399,
+            "grossDiscounted": 129399,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 56
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13327128\/01_151325950_front_1610440487.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13327134\/90_151325950_front_1614864375.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/13327128\/01_151325950_front_1610440487.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/13327128\/01_151325950_front_1610440487.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "8690842341076",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": [
+        {
+          "name": "aw.common.product.document.type_105977471",
+          "url": "https:\/\/apm.auchan.hu\/documents\/getfile\/                                                                                                                                                                                                                       12074332"
+        },
+        {
+          "name": "aw.common.product.document.type_105977471",
+          "url": "https:\/\/apm.auchan.hu\/documents\/getfile\/                                                                                                                                                                                                                       12100952"
+        }
+      ]
+    },
+    {
+      "id": 530587,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "LG",
+      "defaultVariant": {
+        "id": 4067977,
+        "name": "LG F2WT108N0E mos\u00f3g\u00e9p",
+        "sku": "558767",
+        "price": {
+          "net": 129990,
+          "gross": 129990,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 129990,
+          "grossDiscounted": 129990,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 530587,
+        "addedName": "",
+        "selectValue": 4067977,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8806091397201",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 129990,
+            "gross": 129990,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 129990,
+            "grossDiscounted": 129990,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 71
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14948176\/01_154105196_front_1639568936.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14948182\/02_154105196_front_1639568955.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14948188\/90_154105196_front_12065512.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14948176\/01_154105196_front_1639568936.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/14948176\/01_154105196_front_1639568936.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4067977,
+        "name": "LG F2WT108N0E mos\u00f3g\u00e9p",
+        "sku": "558767",
+        "price": {
+          "net": 129990,
+          "gross": 129990,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 129990,
+          "grossDiscounted": 129990,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 530587,
+        "addedName": "",
+        "selectValue": 4067977,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8806091397201",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 129990,
+            "gross": 129990,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 129990,
+            "grossDiscounted": 129990,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 71
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14948176\/01_154105196_front_1639568936.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14948182\/02_154105196_front_1639568955.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14948188\/90_154105196_front_12065512.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/14948176\/01_154105196_front_1639568936.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/14948176\/01_154105196_front_1639568936.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "8806091397201",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    },
+    {
+      "id": 489228,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "Candy",
+      "defaultVariant": {
+        "id": 4026621,
+        "name": "Candy CS34 1262DE\/2-S szuperkeskeny mos\u00f3g\u00e9p",
+        "sku": "465389",
+        "price": {
+          "net": 137900,
+          "gross": 137900,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 137900,
+          "grossDiscounted": 137900,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 489228,
+        "addedName": "",
+        "selectValue": 4026621,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8059019006222",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 137900,
+            "gross": 137900,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 137900,
+            "grossDiscounted": 137900,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 62
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7322243\/01_151353951_front_78195830.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7322246\/90_151353951_bottom_1613121233.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7322243\/01_151353951_front_78195830.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7322243\/01_151353951_front_78195830.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4026621,
+        "name": "Candy CS34 1262DE\/2-S szuperkeskeny mos\u00f3g\u00e9p",
+        "sku": "465389",
+        "price": {
+          "net": 137900,
+          "gross": 137900,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 137900,
+          "grossDiscounted": 137900,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 489228,
+        "addedName": "",
+        "selectValue": 4026621,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8059019006222",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 137900,
+            "gross": 137900,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 137900,
+            "grossDiscounted": 137900,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 62
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7322243\/01_151353951_front_78195830.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7322246\/90_151353951_bottom_1613121233.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7322243\/01_151353951_front_78195830.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7322243\/01_151353951_front_78195830.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "8059019006222",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    },
+    {
+      "id": 538524,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "BEKO",
+      "defaultVariant": {
+        "id": 4075914,
+        "name": "BEKO WUE-7612 XST El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+        "sku": "578931",
+        "price": {
+          "net": 138699,
+          "gross": 138699,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 138699,
+          "grossDiscounted": 138699,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 538524,
+        "addedName": "",
+        "selectValue": 4075914,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8690842371905",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 138699,
+            "gross": 138699,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 138699,
+            "grossDiscounted": 138699,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 61
+        },
+        "flags": [
+          {
+            "flag": "flag_only_online",
+            "name": "Kiz\u00e1r\u00f3lag online rendelhet\u0151 term\u00e9k. \u00c1ruh\u00e1zinkban nem \u00e9rhet\u0151 el.",
+            "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/10656204\/22AUC082_Ecom_kampany_delivery_icon_csak%20online_170x170.png"
+          }
+        ],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/9436488\/01_157923463_front_41153352.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/9436488\/01_157923463_front_41153352.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/9436488\/01_157923463_front_41153352.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": true,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4075914,
+        "name": "BEKO WUE-7612 XST El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+        "sku": "578931",
+        "price": {
+          "net": 138699,
+          "gross": 138699,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 138699,
+          "grossDiscounted": 138699,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 538524,
+        "addedName": "",
+        "selectValue": 4075914,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8690842371905",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 138699,
+            "gross": 138699,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 138699,
+            "grossDiscounted": 138699,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 61
+        },
+        "flags": [
+          {
+            "flag": "flag_only_online",
+            "name": "Kiz\u00e1r\u00f3lag online rendelhet\u0151 term\u00e9k. \u00c1ruh\u00e1zinkban nem \u00e9rhet\u0151 el.",
+            "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/10656204\/22AUC082_Ecom_kampany_delivery_icon_csak%20online_170x170.png"
+          }
+        ],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/9436488\/01_157923463_front_41153352.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/9436488\/01_157923463_front_41153352.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/9436488\/01_157923463_front_41153352.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": true,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "8690842371905",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 3,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    },
+    {
+      "id": 495971,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "QILIVE",
+      "defaultVariant": {
+        "id": 4033373,
+        "name": "Qilive 600082793 el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 7 kg",
+        "sku": "468746",
+        "price": {
+          "net": 139999,
+          "gross": 139999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 139999,
+          "grossDiscounted": 139999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 495971,
+        "addedName": "",
+        "selectValue": 4033373,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "3665257115609",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 139999,
+            "gross": 139999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 139999,
+            "grossDiscounted": 139999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 45
+        },
+        "flags": [
+          {
+            "flag": "flag_qlive",
+            "name": "Qlive",
+            "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/14031147\/qilive.svg"
+          }
+        ],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129415\/01_151356964_front_1617014307.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129418\/90_151356964_front_1617014315.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129415\/01_151356964_front_1617014307.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/15129415\/01_151356964_front_1617014307.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4033373,
+        "name": "Qilive 600082793 el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 7 kg",
+        "sku": "468746",
+        "price": {
+          "net": 139999,
+          "gross": 139999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 139999,
+          "grossDiscounted": 139999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 495971,
+        "addedName": "",
+        "selectValue": 4033373,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "3665257115609",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 139999,
+            "gross": 139999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 139999,
+            "grossDiscounted": 139999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 45
+        },
+        "flags": [
+          {
+            "flag": "flag_qlive",
+            "name": "Qlive",
+            "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/14031147\/qilive.svg"
+          }
+        ],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129415\/01_151356964_front_1617014307.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129418\/90_151356964_front_1617014315.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129415\/01_151356964_front_1617014307.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/15129415\/01_151356964_front_1617014307.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "3665257115609",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 2,
+        "average": 5
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    },
+    {
+      "id": 511938,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "Whirlpool",
+      "defaultVariant": {
+        "id": 4049331,
+        "name": "Whirlpool FFL6238WEE szabadon\u00e1ll\u00f3 el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 6 kg",
+        "sku": "512353",
+        "price": {
+          "net": 139999,
+          "gross": 139999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 139999,
+          "grossDiscounted": 139999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 511938,
+        "addedName": "",
+        "selectValue": 4049331,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8003437045165",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 139999,
+            "gross": 139999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 139999,
+            "grossDiscounted": 139999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 65
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7437413\/01_151675824_front_3163102.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7437416\/01_151675824_front_41163101.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7437419\/01_151675824_front_63082034.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7437413\/01_151675824_front_3163102.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7437413\/01_151675824_front_3163102.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4049331,
+        "name": "Whirlpool FFL6238WEE szabadon\u00e1ll\u00f3 el\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p - 6 kg",
+        "sku": "512353",
+        "price": {
+          "net": 139999,
+          "gross": 139999,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 139999,
+          "grossDiscounted": 139999,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 511938,
+        "addedName": "",
+        "selectValue": 4049331,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "8003437045165",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "DB",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 139999,
+            "gross": 139999,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 139999,
+            "grossDiscounted": 139999,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 65
+        },
+        "flags": [],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7437413\/01_151675824_front_3163102.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7437416\/01_151675824_front_41163101.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7437419\/01_151675824_front_63082034.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/7437413\/01_151675824_front_3163102.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/7437413\/01_151675824_front_3163102.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "8003437045165",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    },
+    {
+      "id": 495974,
+      "categoryId": "8424",
+      "categoryName": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+      "brandName": "QILIVE",
+      "defaultVariant": {
+        "id": 4033376,
+        "name": "Qilive 600082799 mos\u00f3g\u00e9p - 8 kg",
+        "sku": "468747",
+        "price": {
+          "net": 140589,
+          "gross": 140589,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 140589,
+          "grossDiscounted": 140589,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 495974,
+        "addedName": "",
+        "selectValue": 4033376,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "3665257115654",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "KG",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 140589,
+            "gross": 140589,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 140589,
+            "grossDiscounted": 140589,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 45
+        },
+        "flags": [
+          {
+            "flag": "flag_qlive",
+            "name": "Qlive",
+            "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/14031147\/qilive.svg"
+          }
+        ],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129421\/01_151356965_front_1617014468.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129424\/90_151356965_front_1617014475.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129421\/01_151356965_front_1617014468.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/15129421\/01_151356965_front_1617014468.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "selectedVariant": {
+        "id": 4033376,
+        "name": "Qilive 600082799 mos\u00f3g\u00e9p - 8 kg",
+        "sku": "468747",
+        "price": {
+          "net": 140589,
+          "gross": 140589,
+          "currency": "HUF",
+          "decimalPlaces": 0,
+          "netDiscounted": 140589,
+          "grossDiscounted": 140589,
+          "discountPercentage": 0,
+          "isDiscounted": false
+        },
+        "productId": 495974,
+        "addedName": "",
+        "selectValue": 4033376,
+        "status": "none",
+        "unit": "db",
+        "eanCode": "3665257115654",
+        "aided": false,
+        "cartInfo": {
+          "quantitySteps": 2,
+          "quantityStepSize": 1,
+          "availability": "available"
+        },
+        "packageInfo": {
+          "packageUnit": "KG",
+          "packageSize": 1,
+          "unitPrice": {
+            "net": 140589,
+            "gross": 140589,
+            "currency": "HUF",
+            "decimalPlaces": 0,
+            "netDiscounted": 140589,
+            "grossDiscounted": 140589,
+            "discountPercentage": 0,
+            "isDiscounted": false
+          }
+        },
+        "loose": {
+          "loose": false,
+          "convertible": false,
+          "weightPerPiece": 45
+        },
+        "flags": [
+          {
+            "flag": "flag_qlive",
+            "name": "Qlive",
+            "iconUrl": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/flag\/14031147\/qilive.svg"
+          }
+        ],
+        "media": {
+          "images": [
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129421\/01_151356965_front_1617014468.png",
+            "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129424\/90_151356965_front_1617014475.png"
+          ],
+          "videos": [],
+          "mainImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_medium\/product\/15129421\/01_151356965_front_1617014468.png",
+          "listImage": "https:\/\/ahuazurewebblob0.azureedge.net\/auchan\/cache\/product_list\/product\/15129421\/01_151356965_front_1617014468.png"
+        },
+        "details": [
+          "description",
+          "parameterList"
+        ],
+        "isInVirtualStock": false,
+        "shoppingListsContain": [],
+        "offerType": ""
+      },
+      "eancode": "3665257115654",
+      "usedItem": {
+        "canReturn": true,
+        "return": false
+      },
+      "reviewable": "login",
+      "reviewSum": {
+        "sumCount": 0,
+        "average": 0
+      },
+      "categories": [
+        {
+          "id": 4,
+          "name": "Elektronika",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/11240575\/Elektronika.png",
+          "productCount": 4904,
+          "comparable": true,
+          "discountedCount": 202,
+          "childCount": 9,
+          "children": [],
+          "boutique": false,
+          "preferredDisplayStyle": "image_style",
+          "slug": "elektronika"
+        },
+        {
+          "id": 8396,
+          "name": "H\u00e1ztart\u00e1si nagyg\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_thumbnail\/category\/11240650\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "mobileImageUrl": "https:\/\/ahuazurewebblob0.blob.core.windows.net\/auchan\/cache\/category_mobile\/category\/13801839\/Ha%CC%81ztarta%CC%81si%20nagyge%CC%81pek.png",
+          "productCount": 524,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 7,
+          "children": [],
+          "boutique": false,
+          "slug": "haztartasi-nagygep"
+        },
+        {
+          "id": 8421,
+          "name": "Mos\u00f3g\u00e9p \u00e9s sz\u00e1r\u00edt\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 103,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 5,
+          "children": [],
+          "boutique": false,
+          "slug": "mosogep-es-szaritogep"
+        },
+        {
+          "id": 8424,
+          "name": "El\u00f6lt\u00f6lt\u0151s mos\u00f3g\u00e9p",
+          "imageUrl": "",
+          "thumbnailUrl": "",
+          "mobileImageUrl": "",
+          "productCount": 42,
+          "comparable": true,
+          "discountedCount": 0,
+          "childCount": 0,
+          "children": [],
+          "boutique": false,
+          "slug": "eloltoltos-mosogep"
+        }
+      ],
+      "inCategories": [
+        8424
+      ],
+      "isNewProduct": false,
+      "stockInfos": [],
+      "adultsOnly": false,
+      "shipmentDays": 0,
+      "ageConfirmed": false,
+      "isNonFood": true,
+      "documents": []
+    }
+  ],
+  "sortValues": [
+    {
+      "name": "Kedvezm\u00e9ny szerint",
+      "value": "discounted_price",
+      "directions": [
+        "DESC"
+      ]
+    },
+    {
+      "name": "\u00c1r szerint",
+      "value": "price",
+      "directions": [
+        "ASC",
+        "DESC"
+      ]
+    },
+    {
+      "name": "Egys\u00e9g\u00e1r szerint",
+      "value": "unit_price",
+      "directions": [
+        "ASC",
+        "DESC"
+      ]
+    },
+    {
+      "name": "N\u00e9v szerint",
+      "value": "name",
+      "directions": [
+        "ASC",
+        "DESC"
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "brand",
+      "name": "M\u00e1rka",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "BEKO",
+          "value": "49316"
+        },
+        {
+          "name": "BOSCH",
+          "value": "49922"
+        },
+        {
+          "name": "Candy",
+          "value": "29887"
+        },
+        {
+          "name": "Electrolux",
+          "value": "32471"
+        },
+        {
+          "name": "Indesit",
+          "value": "35729"
+        },
+        {
+          "name": "LG",
+          "value": "37508"
+        },
+        {
+          "name": "QILIVE",
+          "value": "41600"
+        },
+        {
+          "name": "Samsung",
+          "value": "42371"
+        },
+        {
+          "name": "Selecline",
+          "value": "42728"
+        },
+        {
+          "name": "Whirlpool",
+          "value": "46088"
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "name": "\u00c1r",
+      "selectionType": "range",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "min",
+          "value": "87999"
+        },
+        {
+          "name": "max",
+          "value": "238899"
+        }
+      ]
+    },
+    {
+      "id": "discount",
+      "name": "Kiemelt aj\u00e1nlat",
+      "selectionType": "singleSelection",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "Igen",
+          "value": "1"
+        },
+        {
+          "name": "Nem",
+          "value": "2"
+        },
+        {
+          "name": "Mindegy",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "id": "mosasi-kapacitas",
+      "name": "Mos\u00e1si kapacit\u00e1s",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "4",
+          "value": "4"
+        },
+        {
+          "name": "5",
+          "value": "5"
+        },
+        {
+          "name": "6",
+          "value": "6"
+        },
+        {
+          "name": "6,5",
+          "value": "6,5"
+        },
+        {
+          "name": "7",
+          "value": "7"
+        },
+        {
+          "name": "8",
+          "value": "8"
+        },
+        {
+          "name": "9",
+          "value": "9"
+        },
+        {
+          "name": "10",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "id": "elhelyezes-fajtaja",
+      "name": "Elhelyez\u00e9s fajt\u00e1ja",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "Be\u00e9p\u00edthet\u0151",
+          "value": "Be\u00e9p\u00edthet\u0151"
+        },
+        {
+          "name": "Szabadon\u00e1ll\u00f3",
+          "value": "Szabadon\u00e1ll\u00f3"
+        }
+      ]
+    },
+    {
+      "id": "goz-program",
+      "name": "G\u0151z program",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "Igen",
+          "value": "Igen"
+        },
+        {
+          "name": "Nem",
+          "value": "Nem"
+        }
+      ]
+    },
+    {
+      "id": "hutogep-es-fagyaszto-szin",
+      "name": "H\u00e1ztart\u00e1si g\u00e9p sz\u00edne",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "Inox",
+          "value": "Inox"
+        },
+        {
+          "name": "feh\u00e9r",
+          "value": "feh\u00e9r"
+        },
+        {
+          "name": "fekete",
+          "value": "fekete"
+        }
+      ]
+    },
+    {
+      "id": "csomagolas-nelkuli-magassag-cm",
+      "name": "Magass\u00e1g (cm)",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "70",
+          "value": "70"
+        },
+        {
+          "name": "82",
+          "value": "82"
+        },
+        {
+          "name": "84",
+          "value": "84"
+        },
+        {
+          "name": "84.3",
+          "value": "84.3"
+        },
+        {
+          "name": "85",
+          "value": "85"
+        }
+      ]
+    },
+    {
+      "id": "csomagolas-nelkuli-melyseg-cm",
+      "name": "M\u00e9lys\u00e9g (cm)",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "38",
+          "value": "38"
+        },
+        {
+          "name": "40",
+          "value": "40"
+        },
+        {
+          "name": "41",
+          "value": "41"
+        },
+        {
+          "name": "42",
+          "value": "42"
+        },
+        {
+          "name": "43",
+          "value": "43"
+        },
+        {
+          "name": "44",
+          "value": "44"
+        },
+        {
+          "name": "47",
+          "value": "47"
+        },
+        {
+          "name": "49",
+          "value": "49"
+        },
+        {
+          "name": "50",
+          "value": "50"
+        },
+        {
+          "name": "54",
+          "value": "54"
+        },
+        {
+          "name": "55",
+          "value": "55"
+        },
+        {
+          "name": "56",
+          "value": "56"
+        },
+        {
+          "name": "56,5",
+          "value": "56,5"
+        },
+        {
+          "name": "57",
+          "value": "57"
+        },
+        {
+          "name": "58",
+          "value": "58"
+        },
+        {
+          "name": "59",
+          "value": "59"
+        },
+        {
+          "name": "63",
+          "value": "63"
+        },
+        {
+          "name": "64",
+          "value": "64"
+        }
+      ]
+    },
+    {
+      "id": "motor-meghajtas-tipusa",
+      "name": "Motor meghajt\u00e1s t\u00edpusa",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "Direct Drive",
+          "value": "Direct Drive"
+        },
+        {
+          "name": "Hagyom\u00e1nyos",
+          "value": "Hagyom\u00e1nyos"
+        },
+        {
+          "name": "Inverteres",
+          "value": "Inverteres"
+        }
+      ]
+    },
+    {
+      "id": "csomagolas-nelkuli-szelesseg-cm",
+      "name": "Sz\u00e9less\u00e9g (cm)",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "51",
+          "value": "51"
+        },
+        {
+          "name": "59",
+          "value": "59"
+        },
+        {
+          "name": "59.5",
+          "value": "59.5"
+        },
+        {
+          "name": "60",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "id": "zajszint-mosas-kozben",
+      "name": "Zajszint mos\u00e1s k\u00f6zben (dB)",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "46",
+          "value": "46"
+        },
+        {
+          "name": "47",
+          "value": "47"
+        },
+        {
+          "name": "52",
+          "value": "52"
+        },
+        {
+          "name": "53",
+          "value": "53"
+        },
+        {
+          "name": "54",
+          "value": "54"
+        },
+        {
+          "name": "55",
+          "value": "55"
+        },
+        {
+          "name": "56",
+          "value": "56"
+        },
+        {
+          "name": "57",
+          "value": "57"
+        },
+        {
+          "name": "60",
+          "value": "60"
+        },
+        {
+          "name": "63",
+          "value": "63"
+        },
+        {
+          "name": "78",
+          "value": "78"
+        }
+      ]
+    },
+    {
+      "id": "mososzer-adagolo",
+      "name": "Mos\u00f3szer adagol\u00f3",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "automata adagol\u00e1s",
+          "value": "automata adagol\u00e1s"
+        },
+        {
+          "name": "egy\u00e9b",
+          "value": "egy\u00e9b"
+        },
+        {
+          "name": "kivehet\u0151",
+          "value": "kivehet\u0151"
+        }
+      ]
+    },
+    {
+      "id": "eves-energiafogyasztas",
+      "name": "\u00c9ves energiafogyaszt\u00e1s",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "116",
+          "value": "116"
+        },
+        {
+          "name": "141",
+          "value": "141"
+        },
+        {
+          "name": "152",
+          "value": "152"
+        },
+        {
+          "name": "153",
+          "value": "153"
+        },
+        {
+          "name": "157",
+          "value": "157"
+        },
+        {
+          "name": "160",
+          "value": "160"
+        },
+        {
+          "name": "173",
+          "value": "173"
+        },
+        {
+          "name": "175",
+          "value": "175"
+        },
+        {
+          "name": "177",
+          "value": "177"
+        },
+        {
+          "name": "195",
+          "value": "195"
+        },
+        {
+          "name": "691",
+          "value": "691"
+        }
+      ]
+    },
+    {
+      "id": "zajszint-centrifugalas-kozben",
+      "name": "Zajszint centrifug\u00e1l\u00e1s k\u00f6zben (dB)",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "71",
+          "value": "71"
+        },
+        {
+          "name": "72",
+          "value": "72"
+        },
+        {
+          "name": "73",
+          "value": "73"
+        },
+        {
+          "name": "74",
+          "value": "74"
+        },
+        {
+          "name": "75",
+          "value": "75"
+        },
+        {
+          "name": "76",
+          "value": "76"
+        },
+        {
+          "name": "77",
+          "value": "77"
+        },
+        {
+          "name": "78",
+          "value": "78"
+        },
+        {
+          "name": "79",
+          "value": "79"
+        },
+        {
+          "name": "80",
+          "value": "80"
+        },
+        {
+          "name": "81",
+          "value": "81"
+        },
+        {
+          "name": "83",
+          "value": "83"
+        }
+      ]
+    },
+    {
+      "id": "energiaosztaly-2021-03-15",
+      "name": "Energiaoszt\u00e1ly",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "B",
+          "value": "B"
+        },
+        {
+          "name": "C",
+          "value": "C"
+        },
+        {
+          "name": "D",
+          "value": "D"
+        },
+        {
+          "name": "E",
+          "value": "E"
+        },
+        {
+          "name": "F",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "id": "max-centrifuga-fordulatszam",
+      "name": "Max. centrifuga fordulatsz\u00e1m",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "800",
+          "value": "800"
+        },
+        {
+          "name": "1000",
+          "value": "1000"
+        },
+        {
+          "name": "1100",
+          "value": "1100"
+        },
+        {
+          "name": "1200",
+          "value": "1200"
+        },
+        {
+          "name": "1400",
+          "value": "1400"
+        }
+      ]
+    },
+    {
+      "id": "bluetooth",
+      "name": "Bluetooth",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "Igen",
+          "value": "Igen"
+        },
+        {
+          "name": "Nem",
+          "value": "Nem"
+        }
+      ]
+    },
+    {
+      "id": "wifi",
+      "name": "WIFI",
+      "selectionType": "checkbox",
+      "open": false,
+      "rangeFilterable": false,
+      "values": [
+        {
+          "name": "Igen",
+          "value": "Igen"
+        },
+        {
+          "name": "Nem",
+          "value": "Nem"
+        }
+      ]
+    }
+  ],
+  "noResultsFor": [],
+  "containsAgeRestrictedProduct": false,
+  "ageConfirmed": false
+}
