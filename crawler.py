@@ -5,8 +5,8 @@ import scrapy
 from scrapy.exceptions import DropItem
 import tarfile
 
-PREVIOUS_SCRAPE = "rawdata.tar.xz"
-NEW_SCRAPE = "2022_12_27_rawdata.tar"
+PREVIOUS_SCRAPE = "databases/archives/2022_12_27_rawdata.tar.xz"
+NEW_SCRAPE = "databases/archives/2023_01_08_rawdata_diff.tar"
 
 
 class AuchanSpider(scrapy.Spider):
@@ -111,7 +111,7 @@ class AuchanSpider(scrapy.Spider):
                     print(self.authorization)
                     break
 
-            for category in range(15000, 1500, -1):
+            for category in range(15000, 5500, -1):
                 yield self._request(
                     url=f'{self.BASE_URL}/products?page=1&itemsPerPage={self.PRODUCTS_PER_PAGE}&categoryId={category}&hl=hu')
 
@@ -137,7 +137,7 @@ class AuchanSpider(scrapy.Spider):
                         # if not in tarfile
                         if f'rawdata/{itemId}/{variantId}/{field}.json' not in self.tar_names:
                             yield self._request(
-                                url=f'{self.BASE_URL}/products/{itemId}/variants/{variantId}/detail/{field}?hl=hu')
+                                url=f'{self.BASE_URL}/products/{itemId}/variants/{variantId}/details/{field}?hl=hu')
 
                     for field in self.PRODUCT_FIELDS:
                         # if not in tarfile
@@ -195,13 +195,6 @@ class RawDataPipeline(object):
             variant_id = item[detail]['variantId']
             # save to tarfile
             self.add_to_tarfile(item[detail]['data'], f'{self.base_path}/{item_id}/{variant_id}/{detail}.json')
-            # self.tar.add(f'{self.base_path}/{item_id}/{variant_id}/{detail}.json')
-            """
-            if not os.path.exists(f'{self.base_path}/{itemId}/{variantId}'):
-                os.makedirs(f'{self.base_path}/{itemId}/{variantId}')
-            with open(f'{self.base_path}/{itemId}/{variantId}/{detail}.json', 'w') as f:
-                json.dump(item[detail]['data'], f)
-            """
         return item
 
     def close_spider(self, spider):
