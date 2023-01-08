@@ -1,0 +1,43 @@
+,nutrition,unit_type
+0,id,
+1,Energia,kcal
+2,Zsír,g
+3,Telített zsírsavak,g
+4,Szénhidrát,g
+5,Cukrok,g
+6,Rost,g
+7,Fehérje,g
+8,Só,g
+9,Riboflavin,mg
+10,Egyszeresen telítetlen zsírsavak,g
+11,C vitamin,mg
+12,B 12 vitamin,µg
+13,Jód,µg
+14,D vitamin,µg
+15,B6 vitamin,mg
+16,Biotin,µg
+17,Kálium,mg
+18,Kalcium,mg
+19,Magnézium,mg
+20,Vas,mg
+21,Réz,mg
+22,Szelén,µg
+23,Molibdén,µg
+24,Nátrium,g
+25,Többszörösen telítetlen zsírsavak,g
+26,Poliolok,g
+27,Keményítő,g
+28,E vitamin,mg
+29,K vitamin,µg
+30,Folsav,µg
+31,Foszfor,mg
+32,Ebből koleszterin,
+33,A vitamin,µg
+34,Tiamin,mg
+35,Niacin,mg
+36,Pantoténsav,mg
+37,Klorid,mg
+38,Cink,mg
+39,Mangán,mg
+40,Fluor,µg
+41,Króm,µg
