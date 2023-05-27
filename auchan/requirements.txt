@@ -1,0 +1,5 @@
+pandas
+bs4
+scrapy
+boto3
+itemadapter

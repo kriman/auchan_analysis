@@ -2,18 +2,18 @@
 0,id,
 1,Energia,kcal
 2,Zsír,g
-3, Telített zsírsavak ,g
-4,Szénhidrát ,g
-5, Cukrok ,g
+3,Telített zsírsavak,g
+4,Szénhidrát,g
+5,Cukrok,g
 6,Fehérje,g
 7,Só,g
-8,Rost ,g
+8,Rost,g
 9,C vitamin,mg
-10, Egyszeresen telítetlen zsírsavak ,g
+10,Egyszeresen telítetlen zsírsavak,g
 11,A vitamin,µg
-12, Többszörösen telítetlen zsírsavak ,g
-13, Poliolok ,g
-14, Keményítő ,g
+12,Többszörösen telítetlen zsírsavak,g
+13,Poliolok,g
+14,Keményítő,g
 15,D vitamin,µg
 16,E vitamin,mg
 17,K vitamin,µg
@@ -31,12 +31,12 @@
 29,Foszfor,mg
 30,Magnézium,mg
 31,Vas,mg
-32,Cink ,mg
-33,Réz ,mg
+32,Cink,mg
+33,Réz,mg
 34,Jód,µg
 35,Nátrium,g
-36, Ebből,koleszterin
-37,Mangán ,mg
+36,Ebből koleszterin,
+37,Mangán,mg
 38,Fluor,µg
 39,Szelén,µg
 40,Króm,µg

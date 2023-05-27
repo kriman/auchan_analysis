@@ -1,36 +1,17 @@
-import io
 import json
-import tarfile
 import time
 
 import scrapy
-from scrapy.crawler import CrawlerProcess
-
-PREVIOUS_SCRAPE = "databases/archives/2023_03_05_rawdata.tar"
-NEW_SCRAPE = "databases/archives/2023_03_16_rawdata_diff.tar"
 
 
-class AuchanSpider(scrapy.Spider):
-    name = 'auchan_spider'
+class AuchanLiteSpider(scrapy.Spider):
+    name = 'auchan_lite'
     start_urls = ['https://online.auchan.hu/']
 
-    custom_settings = {
-        'ITEM_PIPELINES': {
-            '__main__.RawDataPipeline': 1,
-        },
-        'DOWNLOAD_DELAY': 0.05,
-        'LOG_LEVEL': 'INFO',
-        # 'LOG_FILE': 'log.txt',
-        'CONCURRENT_REQUESTS': 32,
-        'DEFAULT_REQUEST_HEADERS': {
-            'Accept': 'application/json',
-            'Accept-Language': 'hu',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
-        }
-    }
-
-    PRODUCTS_PER_PAGE = 500
+    PRODUCTS_PER_PAGE = 1000
     BASE_URL = 'https://online.auchan.hu/api/v2'
+
+    FIELDS_TO_GET = None
 
     DETAIL_FIELDS = {
         'nutrition': 'nutritions',
@@ -44,24 +25,13 @@ class AuchanSpider(scrapy.Spider):
         'stock_infos': None
     }
 
-    authorization = ""
-
-    tar = tarfile.open(PREVIOUS_SCRAPE, "r")
-
-    tar_names = []
-
-    start_time = -1
+    authorization = ''
 
     def start_requests(self):
-        self.tar_names = self.tar.getnames()
-        self.start_time = time.time()
+        self.FIELDS_TO_GET = self.FIELDS_TO_GET.split(',') if self.FIELDS_TO_GET else []
         yield scrapy.Request(
             url='https://online.auchan.hu/',
         )
-
-    def end_requests(self):
-        self.tar.close()
-        print(f"Time elapsed: {time.time() - self.start_time}")
 
     def _request(self, url, callback=None, **kwargs):
         if callback is None:
@@ -69,8 +39,6 @@ class AuchanSpider(scrapy.Spider):
         request = scrapy.Request(
             url=url,
             callback=callback)
-        for key, value in self.custom_settings['DEFAULT_REQUEST_HEADERS'].items():
-            request.headers[key] = value
         request.headers["Authorization"] = self.authorization
         return request
 
@@ -106,6 +74,10 @@ class AuchanSpider(scrapy.Spider):
         for product in data['results']:
             itemId = product['id']
             variantId = product['selectedVariant']['id']
+
+            yield from self.get_details(product, itemId, variantId)
+            yield from self.get_product_fields(itemId, variantId)
+
             yield {
                 'product': {
                     'itemId': itemId,
@@ -114,33 +86,30 @@ class AuchanSpider(scrapy.Spider):
                 }
             }
 
-            yield from self.get_details(product, itemId, variantId)
-            yield from self.get_product_fields(itemId, variantId)
-
         yield from self.get_next_page(response)
 
     def get_next_page(self, response):
-        if response.json()['currentPage'] < response.json()['pageCount']:
+        json_response = json.loads(response.text)
+        if json_response['currentPage'] < json_response['pageCount']:
             category = response.url.split('categoryId=')[1].split('&')[0]
-            next_page = response.json()['currentPage'] + 1
+            next_page = json_response['currentPage'] + 1
             next_url = f'{self.BASE_URL}/products?page={next_page}&itemsPerPage={self.PRODUCTS_PER_PAGE}&categoryId={category}&hl=hu'
             yield self._request(url=next_url, callback=self.parse_products)
 
     def get_product_fields(self, itemId, variantId):
         for field in self.PRODUCT_FIELDS:
-            # if not in tarfile
-            if f'rawdata/{itemId}/{variantId}/{field}.json' not in self.tar_names:
+            if self.FIELDS_TO_GET is not None and field in self.FIELDS_TO_GET:
                 yield self._request(
-                    url=f'{self.BASE_URL}/products/{itemId}/variants/{variantId}/{field}?hl=hu',
-                    callback=self.parse_product_fields)
+                        url=f'{self.BASE_URL}/products/{itemId}/variants/{variantId}/{field}?hl=hu',
+                        callback=self.parse_product_fields)
 
     def get_details(self, product, itemId, variantId):
         details = product['selectedVariant']['details']
         for field in details:
-            if f'rawdata/{itemId}/{variantId}/{field}.json' not in self.tar_names:
+            if self.FIELDS_TO_GET is not None and field in self.FIELDS_TO_GET:
                 yield self._request(
-                    url=f'{self.BASE_URL}/products/{itemId}/variants/{variantId}/details/{field}?hl=hu',
-                    callback=self.parse_details)
+                        url=f'{self.BASE_URL}/products/{itemId}/variants/{variantId}/details/{field}?hl=hu',
+                        callback=self.parse_details)
 
     def parse_details(self, response):
         data = json.loads(response.text)
@@ -179,39 +148,9 @@ class AuchanSpider(scrapy.Spider):
         for cookie in cookies:
             if cookie.startswith(b'access_token'):
                 access_token = cookie.split(b'=')[1].split(b';')[0].decode('utf-8')
-                self.custom_settings['DEFAULT_REQUEST_HEADERS']['Authorization'] = f'Bearer {access_token}'
                 self.authorization = f'Bearer {access_token}'
                 print(self.authorization)
                 break
 
         # get categories list by root category
         yield self._request(url=f'{self.BASE_URL}/tree/0?hl=hu', callback=self.parse_categories)
-
-
-class RawDataPipeline(object):
-    base_path = 'rawdata'
-
-    tar = tarfile.open(NEW_SCRAPE, 'a')
-
-    def add_to_tarfile(self, data, path):
-        file_obj = io.BytesIO(json.dumps(data).encode("utf-8"))
-
-        tarinfo = tarfile.TarInfo(path)
-        tarinfo.size = len(file_obj.getvalue())
-        self.tar.addfile(tarinfo, file_obj)
-
-    def process_item(self, item, spider):
-        for detail in item:
-            item_id = item[detail]['itemId']
-            variant_id = item[detail]['variantId']
-            # save to tarfile
-            self.add_to_tarfile(item[detail]['data'], f'{self.base_path}/{item_id}/{variant_id}/{detail}.json')
-        return item
-
-    def close_spider(self, spider):
-        print("Closing spider")
-        self.tar.close()
-
-process = CrawlerProcess()
-res = process.crawl(AuchanSpider)
-process.start()
